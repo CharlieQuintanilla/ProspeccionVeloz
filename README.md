@@ -1,14 +1,21 @@
-# ProspecionVeloz
+# 🚀 ProspecionVeloz
 
-**Motor para prospección CxO**
+**Motor para prospección CxO** – Plantilla para iniciar proyectos de análisis rápido.
 
-Este repositorio es una plantilla para iniciar proyectos de prospección rápida.
+## ✨ Características
+- Estructura lista para documentar hallazgos
+- Ejemplo de métricas y reportes
+- Fácil de modificar
 
-## Cómo usar esta plantilla
-1. Haz clic en "Use this template"
-2. Clona tu nuevo repositorio
-3. ¡Empieza a trabajar!
+## 📦 Cómo usar esta plantilla
+1. Haz clic en **"Use this template"** (botón verde arriba)
+2. Nombra tu nuevo repositorio
+3. Empieza a editar los archivos
 
-## Contenido
-- README con estructura básicaprospeccion CxO
-Actualizo README
+## 📝 Contenido incluido
+- `README.md` – esta guía
+- `TEMPLATE.md` – formato para tus prospecciones
+- `.gitignore` – ignorar archivos temporales
+
+## 👤 Autor
+Creado por [CharlieQuintanilla](https://github.com/CharlieQuintanilla)
