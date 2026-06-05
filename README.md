@@ -11,3 +11,4 @@ Este repositorio es una plantilla para iniciar proyectos de prospección rápida
 
 ## Contenido
 - README con estructura básicaprospeccion CxO
+Actualizo README
